@@ -1,0 +1,9 @@
+.field-input {
+    background-color: transparent !important;
+    color: black !important;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.field-input:focus {
+    background-color: transparent !important;
+}
